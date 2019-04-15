@@ -2,15 +2,8 @@
 using namespace std;
 int main()
 {
- cout<<"Hello Mantan!"<<endl;
- cout<<"Hello Mantan!"<<endl;
- cout<<"Hello Mantan!"<<endl;
- cout<<"Hello Mantan!"<<endl;
- cout<<"Hello Mantan!"<<endl;
- cout<<"Hello Mantan!"<<endl;
- cout<<"Hello Mantan!"<<endl;
- cout<<"Hello Mantan!"<<endl;
- cout<<"Hello Mantan!"<<endl;
- cout<<"Hello Mantan!"<<endl;
+ for (int x=0;x<10;x++){
+     cout<<"Hello Mantan!"<<endl;
+ }
  return 0;
 }
