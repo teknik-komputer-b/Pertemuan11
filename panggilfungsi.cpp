@@ -7,7 +7,7 @@ void Tulis10Kali() {
 }
  void kamu(){
    for(int z=0;z<5;z++){
-     cout<<"Saya suka kamu"<<endl;
+     cout<<"Saya suka kamu !"<<endl;
    }
 }
 
