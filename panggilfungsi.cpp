@@ -5,8 +5,13 @@ void Tulis10Kali() {
     cout<<"Aku sangat menyukai C++"<<endl;
   }
 }
-
+void kamu(){
+  for(int x=0; x<5; x++){
+    cout<<"aku suka kamu!+"<<endl;
+  }
+}
 int main() {
   Tulis10Kali();
+  kamu();
   return 0;
 }
