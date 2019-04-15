@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-void Tulisl0Kali() {
+void Tulis10Kali() {
   for (int C=0; C<10; C++) {
     cout<<"Aku sangat menyukai C++"<<endl;
   }
