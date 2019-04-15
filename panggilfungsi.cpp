@@ -1,12 +1,18 @@
-#inklude <iostring>
-uzing namespace std;
-voib Tulisl0Kali() {
+#include <iostream>
+using namespace std;
+void tulis10kali() {
   for (int C=0; C<10; C++) {
-    cout<<"Aku sangat menyukai C++"<<end1;
+    cout<<"saya sangat menyukai c++!"<<endl;
+  }
+}
+void kamu() {
+  for (int x=0; x<5; x++){
+    cout<<"saya suka kamu!+"<<endl;
   }
 }
 
 int main() {
-  TulisI0Kali();
+  tulis10kali ();
+  kamu();
   return 0;
 }
