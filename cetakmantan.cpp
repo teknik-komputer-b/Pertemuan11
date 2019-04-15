@@ -1,16 +1,12 @@
 #include <iostream>
+#include <conio.h>
 using namespace std;
 int main()
 {
- cout<<"Hello Mantan!"<<endl;
- cout<<"Hello Mantan!"<<endl;
- cout<<"Hello Mantan!"<<endl;
- cout<<"Hello Mantan!"<<endl;
- cout<<"Hello Mantan!"<<endl;
- cout<<"Hello Mantan!"<<endl;
- cout<<"Hello Mantan!"<<endl;
- cout<<"Hello Mantan!"<<endl;
- cout<<"Hello Mantan!"<<endl;
- cout<<"Hello Mantan!"<<endl;
+  
+  for(int i = 0; i < 10; i++){
+   cout<<"hello mantan!"<<endl;
+  }
+ _getche();
  return 0;
 }
