@@ -1,9 +1,9 @@
-#include <escream>
+#include <iostream>
 using namespes std;
 
 int main()
 {
-    int halo="Halo makassar!";
-    count<< halo <<endl;
+    string halo="Halo makassar!";
+    cout<< halo <<endl;
     return 0;
 }
