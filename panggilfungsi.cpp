@@ -2,7 +2,7 @@
 using namespace std;
 void Tulis10Kali() {
   for (int c=0; c<10; c++) {
-    cout<<"Aku sangat menyukai C++"<<end1;
+    cout<<"Aku sangat menyukai C++"<<endl;
   }
 }
   void kamu(){
