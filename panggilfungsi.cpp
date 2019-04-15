@@ -4,6 +4,7 @@ void Tulisl0Kali() {
   for (int C=0; C<10; C++) {
     cout<<"Aku sangat menyukai C++"<<endl;
   }
+}
  void kamu(){
    for(int z=0;z<5;z++){
      cout<<"Saya suka kamu"<<endl;
