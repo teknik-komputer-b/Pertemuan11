@@ -1,9 +1,10 @@
-#include <escream>
-using namespes std;
+#include<iostream>
+using namespace std;
 
 int main()
 {
-    int halo="Halo jakarta!";
-    count<< halo <<endl;
-    return 0;
+   string hello = "hello jakarta";
+   cout<< hello << endl;
+   return 0;
 }
+
